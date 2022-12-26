@@ -18,29 +18,29 @@ const Blog = () => {
           <Article
             image={blog01}
             date="26 December 2022"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 and Open  AI is the future. Let us explore how it is?"
           />
         </div>
         <div className="gpt3__blog-container__right">
           <Article
             image={blog02}
             date="26 December 2022"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 and Open  AI is the future. Let us explore how it is?"
           />
           <Article
             image={blog03}
             date="26 December 2022"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 and Open  AI is the future. Let us explore how it is?"
           />
           <Article
             image={blog04}
             date="26 December 2022"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 and Open  AI is the future. Let us explore how it is?"
           />
           <Article
             image={blog05}
             date="26 December 2022"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 and Open  AI is the future. Let us explore how it is?"
           />
         </div>
       </div>
